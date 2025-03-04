@@ -22,21 +22,6 @@ A simple Spotify Clone web application built using HTML, CSS, and JavaScript.
 
 3. JavaScript
 
-
-****File Structure****
-
-spotify-clone/
-│-- css/
-│   │-- style.css
-│   │-- utility.css
-│-- img/
-│   │-- logo.svg
-│   │-- icons (home, search, play, next, prev, volume, etc.)
-│-- js/
-│   │-- script.js
-│-- index.html
-│-- README.md
-
 ****Future Enhancements****
 
 1. 🎼 Add backend with Firebase or Node.js
